@@ -1,6 +1,6 @@
 # Fundamentos de C# - Balta.io
 
-> Repositório atribuído ao desafio de criar uma calculadora no console **[Balta.io](https://balta.io/)**.
+> Repositório atribuído ao desafio de criar uma calculadora no console ministrada por **[Balta.io](https://balta.io/)**.
 
 ##
 
